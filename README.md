@@ -9,7 +9,7 @@ Manager-TG-Bot
 
 Клонирование репозитория
 
-git clone https://github.com/TymurV/Manager-TG-Bot
+git clone https://github.com/TymurV/Manager-Telegram-bot
 cd Manager-TG-Bot
 
 Установка зависимостей
@@ -97,7 +97,7 @@ https://github.com/TymurV
 ⸻
 
 Связь
- • Telegram: @yourusername (https://t.me/@PI777RCS)
+ • Telegram: @yourusername (https://t.me/TPI777RCS)
 
 ⸻
 

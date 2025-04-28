@@ -1,6 +1,6 @@
 from telebot import TeleBot
 from config import *
-from keyboards import *
+from keyboards import * 
 from database import *
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
